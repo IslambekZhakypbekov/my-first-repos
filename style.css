@@ -5,4 +5,5 @@ div{
     border: 1px solid lightgray;
     border-radius: 150px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    object-fit: cover;
 }
